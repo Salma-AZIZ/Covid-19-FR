@@ -9,12 +9,12 @@ This project is about data visualisation with Python using Geopandas/Folium and 
 
 With Folium
 
-! [map with Folium](Covid_FR_map.html)
+![map with Folium](Covid_FR_map.html)
 
 With Plotly
 
-! [map with plotly](covid_fr_map.png)
+![map with plotly](covid_fr_map.png)
 
 Positive Covid test per gender in Île-de-France region
 
-! [pie chart for one region](covid_reg_pie_plotly.html)
+![pie chart for one region](covid_reg_pie_plotly.html)
