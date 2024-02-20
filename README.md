@@ -10,12 +10,12 @@ here are screenshots of what the Juputer Notbook renders
 
 Covid Positive test FR map with Folium
 
-![map with Folium](covid_fr_map_folium.png)
+![map with Folium](plots/covid_fr_map_folium.png)
 
 Covid Positive test FR map with Plotly
 
-![map with plotly](covid_fr_map_plolty.png)
+![map with plotly](plots/covid_fr_map_plolty.png)
 
 Covid positive test per gender in Île-de-France region
 
-![pie chart for one region](pie_chart_IDF_reg.png)
+![pie chart for one region](plots/pie_chart_IDF_reg.png)
